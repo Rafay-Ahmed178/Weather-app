@@ -1,0 +1,28 @@
+
+
+
+#myForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid color black;
+}
+#message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid color black;
+}
+#temp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid color black;
+}
+#humidity{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid color black;
+}
+
